@@ -1,7 +1,7 @@
 ﻿{
-    "template_path":  "D:\\Tiago\\Área de Trabalho\\Projetos\\agent-team-template\\scripts\\..\\templates\\solution-architect-prompt.md",
-    "agent":  "solution-architect",
-    "config_path":  "D:\\Tiago\\Área de Trabalho\\Projetos\\agent-team-template\\scripts\\..\\agents\\solution-architect\\config.json",
-    "name":  "Arquiteto de Soluções",
-    "activated_at":  "2026-06-28 18:07:41"
+    "template_path":  "C:\\Projetos\\Uso pessoal\\tarefas-vue-localstorage\\scripts\\..\\templates\\architect-prompt.md",
+    "agent":  "architect",
+    "config_path":  "C:\\Projetos\\Uso pessoal\\tarefas-vue-localstorage\\scripts\\..\\agents\\architect\\config.json",
+    "name":  "Arquiteto de Software",
+    "activated_at":  "2026-10-15 19:14:51"
 }
